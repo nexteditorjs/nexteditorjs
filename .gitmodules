@@ -1,6 +1,3 @@
-[submodule "nexteditor"]
-	path = nexteditor
-	url = ./nexteditor
 [submodule "nexteditor-core"]
 	path = nexteditor-core
 	url = ./nexteditor-core
