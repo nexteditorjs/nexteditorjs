@@ -1,0 +1,21 @@
+{
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript", "typescript"],
+  "cSpell.words": [
+    "blueimp",
+    "clonedeep",
+    "CMDORCTRL",
+    "Compositionend",
+    "Compositionstart",
+    "CTRLORCMD",
+    "isequal",
+    "nexteditor",
+    "nexteditorjs",
+    "sharedb",
+    "snabbdom",
+    "UPSERT",
+    "vite"
+  ]
+}

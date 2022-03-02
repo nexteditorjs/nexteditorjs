@@ -1,0 +1,24 @@
+[submodule "nexteditor"]
+	path = nexteditor
+	url = ./nexteditor
+[submodule "nexteditor-core"]
+	path = nexteditor-core
+	url = ./nexteditor-core
+[submodule "nexteditor-sharedb"]
+	path = nexteditor-sharedb
+	url = ./nexteditor-sharedb
+[submodule "nexteditor-yjs"]
+	path = nexteditor-yjs
+	url = ./nexteditor-yjs
+[submodule "nexteditor-table-block"]
+	path = nexteditor-table-block
+	url = ./nexteditor-table-block
+[submodule "nexteditor-yjs-server"]
+	path = nexteditor-yjs-server
+	url = ./nexteditor-yjs-server
+[submodule "nexteditor-sharedb-server"]
+	path = nexteditor-sharedb-server
+	url = ./nexteditor-sharedb-server
+[submodule "nexteditor-examples"]
+	path = nexteditor-examples
+	url = ./nexteditor-examples
