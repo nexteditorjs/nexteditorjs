@@ -1,2 +1,4 @@
 .eslintrc.js
 vite.config.ts
+build.js
+publish.js

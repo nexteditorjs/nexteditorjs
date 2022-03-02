@@ -19,3 +19,6 @@
 [submodule "nexteditor-examples"]
 	path = nexteditor-examples
 	url = ./nexteditor-examples
+[submodule "delta"]
+	path = delta
+	url = ./delta
