@@ -4,7 +4,8 @@
     "nexteditor-core",
     "nexteditor-sharedb",
     "nexteditor-yjs",
-    "nexteditor-table-block"
+    "nexteditor-table-block",
+    "nexteditor-examples"
   ],
   "devDependencies": {
     "@types/events": "^3.0.0",
