@@ -6,9 +6,6 @@
     "nexteditor-yjs",
     "nexteditor-table-block"
   ],
-  "scripts": {
-    "dev": "cd nexteditor-core && yarn build && cd ../nexteditor-sharedb && yarn build && cd ../nexteditor-table-block && yarn build && cd ../nexteditor && yarn dev"
-  },
   "devDependencies": {
     "@types/events": "^3.0.0",
     "@types/lodash.clonedeep": "^4.5.6",
