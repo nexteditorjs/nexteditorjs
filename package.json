@@ -4,8 +4,7 @@
     "nexteditor-core",
     "nexteditor-sharedb",
     "nexteditor-yjs",
-    "nexteditor-table-block",
-    "nexteditor-examples"
+    "nexteditor-table-block"
   ],
   "scripts": {
     "dev": "cd nexteditor-core && yarn build && cd ../nexteditor-sharedb && yarn build && cd ../nexteditor-table-block && yarn build && cd ../nexteditor && yarn dev"
