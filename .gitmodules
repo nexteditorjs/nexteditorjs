@@ -22,3 +22,6 @@
 [submodule "delta"]
 	path = delta
 	url = ./delta
+[submodule "nexteditor-input-handlers"]
+	path = nexteditor-input-handlers
+	url = ./nexteditor-input-handlers

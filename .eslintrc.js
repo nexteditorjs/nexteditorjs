@@ -29,5 +29,6 @@ module.exports = {
         "import/prefer-default-export": 0,
         "no-underscore-dangle": 0,
         "prefer-destructuring": 0,
+        "no-restricted-syntax": 0,
     },
 }

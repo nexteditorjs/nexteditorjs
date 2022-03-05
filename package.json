@@ -5,6 +5,7 @@
     "nexteditor-sharedb",
     "nexteditor-yjs",
     "nexteditor-table-block",
+    "nexteditor-input-handlers",
     "nexteditor-examples"
   ],
   "devDependencies": {
