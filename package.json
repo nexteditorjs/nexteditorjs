@@ -1,6 +1,7 @@
 {
   "private": true,
   "workspaces": [
+    "delta",
     "nexteditor-core",
     "nexteditor-sharedb",
     "nexteditor-yjs",
