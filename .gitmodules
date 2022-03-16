@@ -25,3 +25,6 @@
 [submodule "nexteditor-input-handlers"]
 	path = nexteditor-input-handlers
 	url = ./nexteditor-input-handlers
+[submodule "nexteditor-test"]
+	path = nexteditor-test
+	url = ./nexteditor-test
