@@ -19,5 +19,13 @@
     "noUnusedParameters": false,
     "noImplicitReturns": true
   },
-  "include": ["./nexteditor-core/src", "./nexteditor-sharedb/src", "./nexteditor-table-block/src", "./nexteditor-input-handlers/src", "./nexteditor-yjs/src", "./nexteditor/src", "./nexteditor-examples/src"]
+  "include": [
+    "./nexteditor-core/src",
+    "./nexteditor-table-block/src",
+    "./nexteditor-input-handlers/src",
+    "./nexteditor-ui/src",
+    "./nexteditor-yjs/src",
+    "./nexteditor-sharedb/src",
+    "./nexteditor-examples/src"
+  ]
 }

@@ -28,3 +28,6 @@
 [submodule "nexteditor-test"]
 	path = nexteditor-test
 	url = ./nexteditor-test
+[submodule "nexteditor-ui"]
+	path = nexteditor-ui
+	url = ./nexteditor-ui
