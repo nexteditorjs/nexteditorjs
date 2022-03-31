@@ -26,6 +26,7 @@
     "./nexteditor-ui/src",
     "./nexteditor-yjs/src",
     "./nexteditor-sharedb/src",
+    "./nexteditor-sharedb-server/src",
     "./nexteditor-examples/src"
   ]
 }

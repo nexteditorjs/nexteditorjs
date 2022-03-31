@@ -582,6 +582,58 @@
     prop-types "^15.7.2"
     react-is "^17.0.2"
 
+"@nexteditorjs/nexteditor-core@0.0.27", "@nexteditorjs/nexteditor-core@^0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-core/-/nexteditor-core-0.0.27.tgz#9c70b72e58bd0cf8f4b5ac0ca831596e12fb7150"
+  integrity sha512-YYEKhm4u7g4ZTb4KU1SD595RhuRKs8t5vd/ikaaGwvOa1Sw1+cSE33hNTTw2DW0Fu+QmO4elaOAmrNAaA5sRug==
+  dependencies:
+    "@nexteditorjs/quill-delta" "^4.2.4"
+    events "^3.3.0"
+    js-base64 "*"
+    lodash.clonedeep "^4.5.0"
+    lodash.isequal "^4.5.0"
+    nanoid "^3.2.0"
+    snabbdom "^3.3.1"
+    string-character-is-astral-surrogate "^2.0.12"
+
+"@nexteditorjs/nexteditor-input-handlers@0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-input-handlers/-/nexteditor-input-handlers-0.0.27.tgz#a50ab9a54940c629b0e1e2391d19423d5876e86f"
+  integrity sha512-TYc643LnMTxzpDW55vqtUl7wUHXFOr7WlOW5JxhYXn6OZDp/coFFrL8YbttyfstLyUSa+JPg/Vzc9x+laldsiQ==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "0.0.27"
+    blueimp-md5 "^2.19.0"
+
+"@nexteditorjs/nexteditor-sharedb@0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-sharedb/-/nexteditor-sharedb-0.0.27.tgz#7bd4d75c00b6a3afdc954296b319173bac539db6"
+  integrity sha512-F6mMYQsfNSph3LVV1oqS9Yt2qQm7IuWdFiMIeJXmkasZgqKTMZvw3hgDb01ETmTZaGcG0sJzaKeVJEKezYEevg==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "^0.0.27"
+    lodash.clonedeep "^4.5.0"
+    lodash.isequal "^4.5.0"
+    ot-json1 "^1.0.2"
+    reconnecting-websocket "^4.4.0"
+    rich-text "^4.1.0"
+    sharedb "^2.2.5"
+
+"@nexteditorjs/nexteditor-table-block@0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-table-block/-/nexteditor-table-block-0.0.27.tgz#8ba1dc1bec2306249991dec3642173675d843c0c"
+  integrity sha512-DpL8SRTrNvJ9h9ZaUZ/qPHEMKN3RFLaGBbG6paXV6E52fpCXMSz1x7ZiKonSgabJWZSFPWKGk1yn4KqkSrNuzQ==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "^0.0.27"
+    blueimp-md5 "^2.19.0"
+
+"@nexteditorjs/nexteditor-yjs@0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-yjs/-/nexteditor-yjs-0.0.27.tgz#a8efae23c831efaab15e38e607b05ba372f60e41"
+  integrity sha512-W+E8X35YhhTaoUKEkfVLB5yEROvD/0hHrY3KbnQKqjQdMawtULHzp6vJmHb8uq/iOi/gQxQiUJdwZ+eBxxKLyg==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "^0.0.27"
+    y-websocket "^1.3.18"
+    yjs "^13.5.28"
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
