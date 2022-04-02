@@ -4,6 +4,8 @@
   },
   "eslint.validate": ["javascript", "typescript"],
   "cSpell.words": [
+    "autoload",
+    "autosave",
     "blueimp",
     "clonedeep",
     "CMDORCTRL",
@@ -11,6 +13,7 @@
     "Compositionstart",
     "CTRLORCMD",
     "isequal",
+    "lokijs",
     "nexteditor",
     "nexteditorjs",
     "sharedb",
