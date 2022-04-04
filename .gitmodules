@@ -31,3 +31,6 @@
 [submodule "nexteditor-ui"]
 	path = nexteditor-ui
 	url = ./nexteditor-ui
+[submodule "nexteditor-list-block"]
+	path = nexteditor-list-block
+	url = ./nexteditor-list-block

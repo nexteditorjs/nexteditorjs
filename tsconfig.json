@@ -22,6 +22,7 @@
   "include": [
     "./nexteditor-core/src",
     "./nexteditor-table-block/src",
+    "./nexteditor-list-block/src",
     "./nexteditor-input-handlers/src",
     "./nexteditor-ui/src",
     "./nexteditor-yjs/src",
