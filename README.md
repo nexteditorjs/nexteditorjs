@@ -7,9 +7,9 @@
 
 This project is working on.
 
-## examples
+## Online demo
 
-1. Simple example: https://nexteditorjs.com/examples/simple
+1. Simple demo: https://nexteditorjs.com/examples/simple
 2. Markdown shortcuts: https://nexteditorjs.com/examples/markdown-shortcuts
 3. Tables: https://nexteditorjs.com/examples/tables
 4. ShareDB collaborative editing: https://nexteditorjs.com/examples/sharedb
