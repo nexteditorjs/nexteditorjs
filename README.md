@@ -16,11 +16,11 @@ This project is working on.
 
 ## TODO
 
-- [ ] Yjs support
-- [ ] List item
-- [ ] Check list
-- [ ] Menu / Toolbar
 - [ ] HTML Copy & Paste
-- [ ] Collaborators cursor
+- [x] Yjs support
+- [x] List item
+- [x] Check list
+- [x] Menu / Toolbar
+- [x] Collaborators cursor
 
 Contact us: nexteditorjs@gmail.com

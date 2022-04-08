@@ -596,12 +596,60 @@
     snabbdom "^3.3.1"
     string-character-is-astral-surrogate "^2.0.12"
 
+"@nexteditorjs/nexteditor-core@0.0.31", "@nexteditorjs/nexteditor-core@^0.0.31":
+  version "0.0.31"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-core/-/nexteditor-core-0.0.31.tgz#11a4c6b865a7c1ebcfbc2e38c3069d519c5de3de"
+  integrity sha512-R2l70C4GWJ44N5kd/TIVVF+ZnipdFXENKbYeXActK3Kgqj+esJN/N0pbzTSF3bzqmbcKqU/e2gKP9Mv6c7iijQ==
+  dependencies:
+    "@nexteditorjs/quill-delta" "^4.2.4"
+    events "^3.3.0"
+    js-base64 "*"
+    lodash.clonedeep "^4.5.0"
+    lodash.intersection "^4.4.0"
+    lodash.isequal "^4.5.0"
+    nanoid "^3.2.0"
+    snabbdom "^3.3.1"
+    string-character-is-astral-surrogate "^2.0.12"
+    string-template "^1.0.0"
+
+"@nexteditorjs/nexteditor-core@0.0.32", "@nexteditorjs/nexteditor-core@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-core/-/nexteditor-core-0.0.32.tgz#2defd252ecda8bcb8e2b14281be64e8b0c312e5a"
+  integrity sha512-VrLIxMaPvObld2VoFy/Svv9CJoawL25NpT4AvuwohMWmqWCzQEJfHYYMc+QZsNkWQR/tj8FJPvV0Mb4W6HBeDw==
+  dependencies:
+    "@nexteditorjs/quill-delta" "^4.2.4"
+    events "^3.3.0"
+    js-base64 "*"
+    lodash.clonedeep "^4.5.0"
+    lodash.intersection "^4.4.0"
+    lodash.isequal "^4.5.0"
+    nanoid "^3.2.0"
+    snabbdom "^3.3.1"
+    string-character-is-astral-surrogate "^2.0.12"
+    string-template "^1.0.0"
+
 "@nexteditorjs/nexteditor-input-handlers@0.0.27":
   version "0.0.27"
   resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-input-handlers/-/nexteditor-input-handlers-0.0.27.tgz#a50ab9a54940c629b0e1e2391d19423d5876e86f"
   integrity sha512-TYc643LnMTxzpDW55vqtUl7wUHXFOr7WlOW5JxhYXn6OZDp/coFFrL8YbttyfstLyUSa+JPg/Vzc9x+laldsiQ==
   dependencies:
     "@nexteditorjs/nexteditor-core" "0.0.27"
+    blueimp-md5 "^2.19.0"
+
+"@nexteditorjs/nexteditor-input-handlers@0.0.31", "@nexteditorjs/nexteditor-input-handlers@^0.0.31":
+  version "0.0.31"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-input-handlers/-/nexteditor-input-handlers-0.0.31.tgz#e4f4814a73cbf0b4f8c2cb6f9ea37526bf705147"
+  integrity sha512-2nG4oYv076HY8Krjc72mJYGGRd2nWVgb6CTzNQ+NfZNCi2fXyjwm++x+8Wy8loHbPCf/XZEfIo340zrOgUUPDA==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "0.0.31"
+    blueimp-md5 "^2.19.0"
+
+"@nexteditorjs/nexteditor-input-handlers@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-input-handlers/-/nexteditor-input-handlers-0.0.32.tgz#94f7a5060c22a76fa3b3207fc1a11d79c9ad0bc0"
+  integrity sha512-yf5E1wdnxOzY/GAol3snifJM6r6jepi65h4OPxu2ucf5C976OcUxWQmUd2N/tZg2LGb1erVFkbDSZGU2xC0c1g==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "0.0.32"
     blueimp-md5 "^2.19.0"
 
 "@nexteditorjs/nexteditor-sharedb@0.0.27":
@@ -617,6 +665,20 @@
     rich-text "^4.1.0"
     sharedb "^2.2.5"
 
+"@nexteditorjs/nexteditor-sharedb@^0.0.31":
+  version "0.0.31"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-sharedb/-/nexteditor-sharedb-0.0.31.tgz#5656b618db280e51c8c900683114a49175b892b1"
+  integrity sha512-nc/K5CA6+4aO8MWIIDF21/Wyp8z46dQfN17EHPXmzIeahsYA7WI1TRnKIEcG5kMwlVAV6P6JmXUZVCSJT9C38g==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "^0.0.31"
+    lodash.clonedeep "^4.5.0"
+    lodash.debounce "^4.0.8"
+    lodash.isequal "^4.5.0"
+    ot-json1 "^1.0.2"
+    reconnecting-websocket "^4.4.0"
+    rich-text "^4.1.0"
+    sharedb "^2.2.5"
+
 "@nexteditorjs/nexteditor-table-block@0.0.27":
   version "0.0.27"
   resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-table-block/-/nexteditor-table-block-0.0.27.tgz#8ba1dc1bec2306249991dec3642173675d843c0c"
@@ -624,6 +686,24 @@
   dependencies:
     "@nexteditorjs/nexteditor-core" "^0.0.27"
     blueimp-md5 "^2.19.0"
+
+"@nexteditorjs/nexteditor-table-block@^0.0.31":
+  version "0.0.31"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-table-block/-/nexteditor-table-block-0.0.31.tgz#207058560d63fe2f714e5821dc9efdfaef1c28e9"
+  integrity sha512-uLm91ku+HSbkP8bhlB79i3vcUAMKfagF9ceGXWQK1UD8zxV+8Q8Nm+iFl3fopzP+oanzzg6TvA0fb0Dh1mMJhg==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "^0.0.31"
+    blueimp-md5 "^2.19.0"
+    lodash.clonedeep "^4.5.0"
+
+"@nexteditorjs/nexteditor-table-block@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@nexteditorjs/nexteditor-table-block/-/nexteditor-table-block-0.0.32.tgz#ada0bbac487638ad35c7b2895151f16cb8d7df5a"
+  integrity sha512-gSXotPrlK32YA1IrbOol3vnqQDt6A9jlnzwwIjl+A5AVKEXZ3FPfxknbKhdPZQUVlxC4Q26JNGtDPmw4jQDBvg==
+  dependencies:
+    "@nexteditorjs/nexteditor-core" "^0.0.32"
+    blueimp-md5 "^2.19.0"
+    lodash.clonedeep "^4.5.0"
 
 "@nexteditorjs/nexteditor-yjs@0.0.27":
   version "0.0.27"
