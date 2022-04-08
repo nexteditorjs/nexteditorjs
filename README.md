@@ -13,6 +13,8 @@ This project is working on.
 2. Markdown shortcuts: https://nexteditorjs.com/examples/markdown-shortcuts
 3. Tables: https://nexteditorjs.com/examples/tables
 4. ShareDB collaborative editing: https://nexteditorjs.com/examples/sharedb
+5. Yjs collaborative editing: https://nexteditorjs.com/examples/yjs
+6. Hovering toolbar: https://nexteditorjs.com/examples/toolbar
 
 ## TODO
 
