@@ -8,6 +8,7 @@
     "nexteditor-yjs",
     "nexteditor-table-block",
     "nexteditor-list-block",
+    "nexteditor-code-block",
     "nexteditor-input-handlers",
     "nexteditor-ui",
     "nexteditor-examples",

@@ -34,3 +34,6 @@
 [submodule "nexteditor-list-block"]
 	path = nexteditor-list-block
 	url = ./nexteditor-list-block
+[submodule "nexteditor-code-block"]
+	path = nexteditor-code-block
+	url = ./nexteditor-code-block
