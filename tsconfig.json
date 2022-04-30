@@ -25,6 +25,7 @@
     "./nexteditor-list-block/src",
     "./nexteditor-code-block/src",
     "./nexteditor-input-handlers/src",
+    "./nexteditor-ui-base/src",
     "./nexteditor-ui/src",
     "./nexteditor-yjs/src",
     "./nexteditor-sharedb/src",

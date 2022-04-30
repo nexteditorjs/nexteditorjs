@@ -10,6 +10,7 @@
     "nexteditor-list-block",
     "nexteditor-code-block",
     "nexteditor-input-handlers",
+    "nexteditor-ui-base",
     "nexteditor-ui",
     "nexteditor-examples",
     "nexteditor-test"

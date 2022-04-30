@@ -37,3 +37,6 @@
 [submodule "nexteditor-code-block"]
 	path = nexteditor-code-block
 	url = ./nexteditor-code-block
+[submodule "nexteditor-ui-base"]
+	path = nexteditor-ui-base
+	url = ./nexteditor-ui-base/
