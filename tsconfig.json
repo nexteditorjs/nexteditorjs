@@ -19,6 +19,9 @@
     "noUnusedParameters": false,
     "noImplicitReturns": true
   },
+  "typeRoots": [
+    "./node_modules/@types"
+  ],
   "include": [
     "./nexteditor-core/src",
     "./nexteditor-table-block/src",
